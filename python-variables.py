@@ -59,10 +59,12 @@ total = int_num + int(str_num) # adding int_num and str_num after converting str
 print("total explicit type conversion:", total) # printing the value of total variable
 print(type(total)) # printing the type of total variable
 
-a = 5
-b = "5"
+a = "5"
+b = 3
 
-print(str(a)+ b) # explicit type conversion of b variable to integer and adding it to a variable
+print(a*b+"dddddddddddddddddddddddddddddddddddddddddddd")
+
+
 
 # print(object= separator= end= file= flush=)  
 
@@ -97,8 +99,8 @@ print(type(num1)) # printing the type of num1 variable
 
 #python operators
 
-x= 10
-y= 5
+x= 5
+y= 2
 
 # arthemetic operators  
 print("Arithmetic operators")
